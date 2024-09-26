@@ -10,7 +10,7 @@ function Index({text, bgcolor, bgImage, img}) {
         setIsFlipped(!isFlipped);
     }
     return (
-        <div className={' w-full flex items-center h-[500px]   '}>
+        <div className={' w-full h-full flex items-center    '}>
             <div className={'flip-card w-full h-full '}>
                 <motion.div
                     className={'flip-card-inner w-full h-full    '}

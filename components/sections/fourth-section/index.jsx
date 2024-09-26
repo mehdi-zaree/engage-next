@@ -14,7 +14,7 @@ function Index(props) {
                     text={'Crafting a compelling brand identity and positioning strategy'} bgcolor={`#c6b6ff`}
                     img={false}/>
                 
-                <div className={'w-full col-span-2 bg-[#c7d8c4] rounded-2xl overflow-hidden'}>
+                <div className={'w-full h-full col-span-2 bg-[#c7d8c4] rounded-2xl overflow-hidden'}>
                     <img src="/smiling-nigga.webp" alt="" className={'w-full h-full '}/>
                 </div>
                 
