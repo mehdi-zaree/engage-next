@@ -1,4 +1,4 @@
-<h1 align="center">Toranj Restauraunt app</h1>
+<h1 align="center">Enagage Parallax</h1>
 </br>
 
 </br>
